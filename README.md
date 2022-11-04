@@ -1,6 +1,4 @@
-# *rEWAS*  
-
-**Environmental-wide association studies (EWAS) in R**
+# (*rEWAS*)[https://github.com/gcostaneto/rEWAS/blob/main/README.md]  **Environmental-wide association studies (EWAS) in R**
 
 
 
