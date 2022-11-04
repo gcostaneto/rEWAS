@@ -1,4 +1,4 @@
-# *rEWAS* Environmental-wide association studies (EWAS) in R
+# *rEWAS* -- **Environmental-wide association studies (EWAS) in R**
 
 
 
